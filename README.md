@@ -11,4 +11,4 @@
 ## Запуск
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/<your-username>/java-hello-task.git
+   git clone https://github.com/<your-username>/java-hello-task-lab2.git
